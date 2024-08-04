@@ -1,0 +1,34 @@
+<task>
+<problem>
+There are six girls - Alice, Jesse, Bertha, Maria, Claire, and Penelope. They are all each other's **only** friends. They are all currently performing an activity in the same room.
+
+Alice is writing a trilogy of stories with some of her friends at the moment - with each friend writing one story. Claire is playing chess with a friend. Penelope is illiterate. Bertha is playing a video game.
+
+What is each girl doing?
+</problem>
+
+<solution>
+Alice, as stated, is writing a story.
+
+Penelope is illiterate - so she cannot be writing the story with alice.
+
+Claire is playing chess.
+
+Bertha is playing a computer game.
+
+That leaves Penelope, Jesse, and Maria.
+
+Penelope can't be writing the book with Alice, so that leaves Jesse and Maria to complete the trilogy.
+
+Claire needs someone to play chess with - that must be Penelope.
+
+So therefore:
+
+Alice - writing story
+Jesse - writing story
+Maria - writing story
+Claire - playing chess
+Penelope - playing chess
+Bertha - playing video game
+</solution>
+</task>

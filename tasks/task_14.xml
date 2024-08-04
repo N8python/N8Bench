@@ -1,0 +1,15 @@
+<task>
+<problem>
+Alice has seven bananas today and ate three bananas yesterday. How many bananas does she have now?
+</problem>
+
+<solution>
+
+The amount of bananas Alice consumed yesterday is irrelevant to how many she has today.
+
+As stated in the problem, she has seven bananas today.
+
+Thus the answer is seven.
+
+</solution>
+</task>

@@ -1,0 +1,14 @@
+<task>
+<problem>
+An elevator is on the ground floor. I'm on the fourth floor. There are five people in the elevator. When the lift reaches the first floor, one person gets out and two people get in. The lift goes up to the second floor, three people get out, five people get in. It then goes up to the next floor up, no-one gets out but 12 people get in. Halfway up to the next floor up the elevator cable snaps, it crashes to the floor. Everyone dies except me. How did I survive?
+
+</problem>
+
+<solution>
+
+You were never in the elevator. You started on the fourth floor, and the elevator crashed going from the third to the fourth floor. Therefore, you never got on the elevator, and thus survived.
+
+(Note: To warrant a CORRECT answer, the reasoning provided must be coherent)
+
+</solution>
+</task>

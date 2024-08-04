@@ -1,0 +1,28 @@
+<task>
+<problem>
+A denizen of flatland - Joe the triangle - meets a fellow regular polygon, Jane. Jane mentions her side count exceeds Joe's by an even number. Jane then spins around 360 degrees. The most sides Joe observes from his vantage point is 4. What type of regular polygon is Jane?
+</problem>
+
+<solution>
+
+Given:
+ 
+Joe is a triangle, so he has 3 sides.
+Jane's side count exceeds Joe's by an even number.
+Joe observes at most 4 sides during Jane's rotation.
+
+Understanding Jane's rotation:
+In Flatland, Joe sees Jane as a chain of connected line segments changing length and depth as she rotates. He sees a 1-dimensional projection of Jane's 2d being.
+The number of distinct lengths Joe sees equals half of Jane's total sides (rounded up for odd numbers).
+Joe sees at most 4 distinct lengths, so Jane has either 7 or 8 sides.
+
+Jane's side count exceeds Joe's by an even number:
+
+If Jane has 7 sides, Joe has 3 sides. The difference is 4, which is even. This is a valid solution.
+If Jane has 8 sides, Joe has 3 sides. The difference is 5, which is odd. This is not a valid solution.  
+
+Therefore, Jane has 7 sides, making her a heptagon.
+
+(In order to warrant a grade of CORRECT, the attempted answer conclude that Jane is a heptagon.)
+</solution>
+</task>

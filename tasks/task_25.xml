@@ -1,0 +1,25 @@
+<task>
+<problem>
+What's similar about the names of these continents?
+
+Asia
+Africa
+Australia
+Antarctica
+Europe
+
+</problem>
+
+<solution>
+Observe that each continent name can be reduced to:
+
+A[..]a
+A[..]a
+A[..]a
+A[..]a
+E[..]e
+
+The names of all these continents start and end with the same letter.
+
+</solution>
+</task>

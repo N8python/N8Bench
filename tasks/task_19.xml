@@ -1,0 +1,21 @@
+<task>
+<problem>
+A cylindrical container is filled with water. The water is then poured equally into three new containers. These three new containers have the following properties:
+
+They are identical to each other.
+The three containers cannot be arranged to perfectly occupy the same space as the original cylinder.
+The water fits perfectly in these new containers without overflowing or being underfilled, or gravity causing the water to flow out.
+
+What shape must these three new containers have?
+</problem>
+
+<solution>
+The volume of the cylinder must be equal to the volume of the three new containers combined, due to the water being an incompressible liquid under normal conditions - thus conserving volume.
+
+The volume of a cylinder is given by the formula V = πr^2h, where r is the radius and h is the height. The volume of a cone is given by the formula V = (1/3)πr^2h, where r is the radius and h is the height. Thus the volume of three cones is that of one cylinder.
+
+Three cones can not be arranged in a way that perflecty occupies the same space as the original cylinder.
+
+Thus three identical containers with the same height and radius as the cylinder must be cones.
+</solution>
+</task>

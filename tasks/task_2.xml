@@ -1,0 +1,26 @@
+<task>
+<problem>
+A nxn square of discrete dots has 20 dots with less than 9 neighbors. How many dots are there, total, in the square?
+</problem>
+
+<solution>
+In a square grid of dots, the dots with less than 9 neighbors are:
+
+4 corner dots (each with 3 neighbors)
+(n-2)*4 edge dots (each with 5 neighbors)
+
+We're told that there are 20 such dots. So we can write an equation:
+4 + (n-2)*4 = 20
+
+Solving this equation:
+
+(n-2) * 4 = 16
+
+n - 2 = 4
+
+n = 6
+
+So our square is 6x6 - meaning there are 36 dots total in the square.
+
+</solution>
+</task>

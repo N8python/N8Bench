@@ -1,0 +1,19 @@
+<task>
+<problem>
+There are six doors. Behind five of the doors, there is nothing. Behind one door, is a suitcase with one million dollars. You have two chances to pick a door. You pick the first door and see its empty. You then have the option to pick another door, or to close all the doors, shuffle which one the million dollars is behind, and then choose a second door. Which option should you pick?
+</problem>
+
+<solution>
+
+The first pick has a 1/6 chance of suceeding. The second pick, if you don't shuffle, has a 1/5 chance of suceeding (5 doors are left)
+
+If you shuffle, it's like you are picking a door for the first time again. So that gives you a 1/6 chance of suceeding.
+
+Therefore, you should pick the option that gives you a higher chance of suceeding - not shuffling and simply picking a second door.
+
+Thus, the answer is to pick a second door without shuffling.
+
+(In order to earn a CORRECT answer, the reasoning must be high quality and not contain innacuracies or misunderstandings.)
+
+</solution>
+</task>

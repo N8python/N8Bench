@@ -1,0 +1,12 @@
+<task>
+<problem>
+Alice and Bob go on a walk. They are beside each other the whole time - in such a way they can turn to the side and talk to each other with ease. At the end of the walk, Alice has walked a little more nine and a half miles, whereas Bob has only walked nine miles. How is this possible?
+</problem>
+<solution>
+
+Alice and Bob are walking around a circular track. Alice is walking on the outer edge of the track, whereas Bob is walking on the inner edge. The track has a minimum radius of 3 miles, and a maximum radius of roughly 3.1 miles.
+
+(Note: To achieve a CORRECT answer, the student must mention the concept of a circular track. The student must also mention that Alice is walking on the outer edge of the track, whereas Bob is walking on the inner edge. The numerical values of the radius of the track are not necessary to achieve a CORRECT answer, but do help.)
+
+</solution>
+</task>

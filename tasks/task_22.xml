@@ -1,0 +1,19 @@
+<task>
+<problem>
+A man named Joe lives in a grid world, where every landmark is perfectly stationed on a regular grid. Joe starts at his house. He walks to the store (first leg of his journey), turns left, walks from the store to the park (second leg), turns left, walks from the park to the school (third leg). Which leg of the journey is the vector from Joe's house to the school parralel with?
+</problem>
+
+<solution>
+
+Visualize Joe's journey as follows:
+Park ← Store
+ ▼        ▲ 
+School  House
+
+Therefore, the vector from Joe's house to the school is parallel with the vector from the store to the park.
+
+Since the vector from the store to the park is the second leg of Joe's journey, the answer is the second leg.
+
+(In order to warrant a grade of CORRECT, the attempted answer must conclude that the second leg of Joe's journey is parallel with the vector from Joe's house to the school.)
+</solution>
+</task>

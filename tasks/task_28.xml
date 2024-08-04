@@ -1,0 +1,20 @@
+<task>
+<problem>
+What day would tomorrow be if yesterday was six days before the day after Sunday's yesterday?
+</problem>
+<solution>
+
+We start with Sunday as our reference point.
+"Sunday's yesterday" would be Saturday.
+"The day after Sunday's yesterday" would be Sunday again.
+"Six days before the day after Sunday's yesterday" means we need to count back 6 days from Sunday.
+Counting back 6 days from Sunday gives us Monday.
+The question states that "yesterday was" this day (Monday).
+If yesterday was Monday, then today would be Tuesday.
+Therefore, tomorrow would be Wednesday.
+
+So, the answer is: Tomorrow would be Wednesday.
+
+
+</solution>
+</task>

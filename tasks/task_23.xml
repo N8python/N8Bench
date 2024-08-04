@@ -1,0 +1,26 @@
+<task>
+<problem>
+
+A man named Joe sees the following equation of a piece of paper.
+
+6 + 6 = 81
+
+He says - "this makes no sense!" and gives it to his friend Jane.
+
+Jane looks at the paper for a second, does something to it, and hands it back to Joe.
+
+Joe then says, "Never mind, this is correct."
+
+What did Jane do to the paper?
+
+</problem>
+
+<solution>
+
+Jane turned the paper upside down. When the paper is turned upside down, the equation reads:
+
+18 = 9 + 9
+
+Which is correct.
+</solution>
+</task>

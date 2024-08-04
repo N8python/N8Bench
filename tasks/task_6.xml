@@ -1,0 +1,22 @@
+<task>
+<problem>
+The following grid is presented to you:
+
+A square in a circle | A triangle in a square | A circle in a triangle
+A triangle in a triangle | A circle in a square | A square in a circle
+A circle in a triangle | A square in a square | ?
+
+What should be in the last cell?
+
+</problem>
+
+<solution>
+
+Each row of the grid contains a shape inside another shape. All shape types appear on the inside once and on the outside once.
+
+For the last row, the only shape that has not appeared on the inside yet is the triangle. The only shape that has not appeared on the outside yet is the circle.
+
+Therefore, the last cell should contain a triangle inside a circle.
+
+</solution>
+</task>

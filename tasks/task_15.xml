@@ -1,0 +1,17 @@
+<task>
+<problem>
+Alice lives in a traditional nuclear family (mother, father, children). Alice and her entire family subscribe to a family account on three different streaming services: Netflix, Hulu, and Paramount+. Each of the three family accounts has five members. How many siblings does Alice have? 
+</problem>
+
+<solution>
+
+The family consists of Alice, a mother, a father, and N siblings.
+
+Each streaming service account has all family members subscribed - five in total.
+
+5 family members total - Alice - 1 mother - 1 father = 2 siblings
+
+Thus, Alice has two siblings.
+
+</solution>
+</task>

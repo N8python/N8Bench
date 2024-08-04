@@ -1,0 +1,22 @@
+<task>
+<problem>
+
+A man starts with four identical paper shapes - call these 4 of shape X. He carefully cuts, folds, and glues these instances of Shape X together to create a single hollow object. The process uses all of the paper without any waste. 
+
+The resulting 3D object has an interesting property: when viewed from any angle, its outline matches Shape X exactly.
+
+What 3D object has the man created, and what is Shape X?
+
+</problem>
+
+<solution>
+
+The area of a circle is given by the formula A =4πr^2, where r is the radius.
+
+The surface area of a sphere is given by the formula A = 4πr^2, where r is the radius.
+
+The outline of a sphere is a circle of the sphere's radius when viewed from any angle (thus a sphere of radius R has a circle of radius R as its outline).
+
+Thus, Shape X is a circle, and the 3D object is a sphere.
+</solution>
+</task>

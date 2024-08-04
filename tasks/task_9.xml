@@ -1,0 +1,29 @@
+<task>
+<problem>
+A thick yoga mat is rolled up. The mat is 100 meters long when unrolled. When rolled up, the outer diameter is 20/sqrt(pi) meters, and the inner diameter is 10/sqrt(pi) meters. How thick is the mat?
+</problem>
+
+<solution>
+The third dimension here - the "depth" of the mat is irrelevant. We are basically treating the mat as a circle with a circle-shaped hole in it when rolled up, and a rectangle when unrolled.
+
+When rolled up, the mat is a circle with a hole in it. The area of the circle is pi * (outer radius)^2, and the area of the hole is pi * (inner radius)^2. The area of the mat is the difference between these two areas.
+
+So the area of the mat is pi * (outer radius)^2 - pi * (inner radius)^2 = pi * (outer radius^2 - inner radius^2).
+
+The outer radius is 20/sqrt(pi)/2 = 10/sqrt(pi), and the inner radius is 10/sqrt(pi)/2 = 5/sqrt(pi).
+
+So the area of the mat is pi * (10/sqrt(pi)^2 - 5/sqrt(pi)^2) = pi * (100/pi - 25/pi) = pi * 75/pi = 75.
+
+So the area of the mat is 75 square meters.
+
+When unrolled, the area of the mat is 100 meters times its thickness - T * 100.
+
+Since area is conserved, we can set the two areas equal to each other:
+
+75 = 100 * T
+
+T = 75/100 = 0.75 meters.
+
+The mat is 0.75 meters thick.
+</solution>
+</task>

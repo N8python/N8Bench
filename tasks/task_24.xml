@@ -1,0 +1,14 @@
+<task>
+<problem>
+If all Swaffs are Cools, all Cools are Swells, and all Swells are Dudes, then is it safe to say all Dudes are Swaffs?
+</problem>
+
+<solution>
+
+The relationships provided indicate subsets - so Swaffs are a subset of Cools, Cools are a subset of Swells, and Swells are a subset of Dudes.
+
+However, this doesn't go the other way - Dudes aren't all Swaffs. They could be, but the information provided doesn't guarantee that.
+
+Therefore, it is not safe to say all Dudes are Swaffs.
+</solution>
+</task>

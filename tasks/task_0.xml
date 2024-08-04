@@ -1,0 +1,17 @@
+<task>
+<problem>
+There are 99 murderers in a room. Joe walks into the room and kills three of them. How many murderers are in the room now?
+</problem>
+
+<solution>
+
+There are initially 99 murderers in the room.
+
+Joe kills three of them, so there are now 96 murderers in the room with Joe.
+
+However, Joe, by killing them, becomes a murderer, increasing the count of murderers by one to 97.
+
+So there are 97 murderers in the room.
+
+</solution>
+</task>

@@ -1,0 +1,14 @@
+<task>
+<problem>
+There are cats in a drawer shaped like a regular polygon. Each cat is in a corner at the bottom part of the drawer, and each cat sees three other cats - two an equal distance away, and one farther away. How many sides does the drawer have?
+</problem>
+<solution>
+
+Each cat can be thought of as a vertex that can see 3 other vertices.
+
+If the drawer is shaped like a square, the cat will see two cats an equal distance away - the cats at the adjacent corners of the square - and one cat further away - the cat opposite it diagonally.
+
+Therefore, the drawer is a square, and it thus has 4 sides.
+
+</solution>
+</task>

@@ -1,0 +1,13 @@
+<task>
+<problem>
+Two cameras are set up on perpendicular walls in a totally dark room. They both take a picture of a glowing light at the center of the room. The first camera's picture shows a glowing white circle. The second camera's picture shows a glowing white rectangle. What is the shape of the light source in the room?
+</problem>
+
+<solution>
+
+The first camera is set up on a wall perpendicular to the light source, so it sees the light source as a circle. The second camera is set up on a wall perpendicular to the first camera, so it sees the light source as a rectangle.
+The only shape that can be seen as both a circle and a rectangle from perpendicular angles is a cylinder. Therefore, the light source in the room is a cylinder.
+
+(In order to warrant a grade of CORRECT, the attempted answer conclude the light source is a cylinder.)
+</solution>
+</task>

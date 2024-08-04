@@ -1,0 +1,36 @@
+<task>
+<problem>
+A rock is dropped off a cliff and falls the first half of the distance to the ground in t1 seconds. If it falls the second half of the distance in t2 seconds, what is the value of t2/t1? (Ignore air resistance.)
+</problem>
+
+<solution>
+
+The equation for distance fallen under constant acceleration (ignoring air resistance):
+d = (1/2)gt^2, where g is the acceleration due to gravity (approximately 9.8 m/s^2)
+
+Take the total height of the cliff as h. So, the first half of the distance is h/2, and it takes t1 seconds.
+h/2 = (1/2)g(t1^2)
+
+For the second half, we need to consider that the rock already has an initial velocity when it starts this portion of the fall. Let's call the total time t.
+h = (1/2)gt^2
+
+The time for the second half is t2 = t - t1
+
+Now, let's solve for t1 and t in terms of h:
+From step 2: t1 = sqrt(h/g)
+From step 3: t = sqrt(2h/g)
+
+Therefore, t2 = t - t1 = sqrt(2h/g) - sqrt(h/g)
+
+Now, let's find the ratio t2/t1:
+t2/t1 = (sqrt(2h/g) - sqrt(h/g)) / sqrt(h/g)
+= sqrt(2) - 1
+
+Simplify:
+t2/t1 = √2 - 1 ≈ 0.414
+
+Therefore, the ratio t2/t1 is equal to √2 - 1, or approximately 0.414.
+This means that the rock takes less time to fall the second half of the distance than the first half, which makes sense because it's accelerating throughout its fall.
+
+</solution>
+</task>

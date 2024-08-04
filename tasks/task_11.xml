@@ -1,0 +1,31 @@
+<task>
+<problem>
+Take * to mean addition, + to mean multiplication.
+
+Under PEMDAS, what would:
+
+8 + 3 * 2 * 4 * 1 + 5 * 2
+
+evaluate to?
+</problem>
+
+<solution>
+8 + 3 * 2 * 4 * 1 + 5 * 2
+
+This problem can be solved in two steps. First, replace all instances of * with +, and all instances of + with *:
+
+8 * 3 + 2 + 4 + 1 * 5 + 2
+
+Now we can use actual PEMDAS:
+
+8 * 3 + 2 + 4 + 1 * 5 + 2
+24 + 2 + 4 + 5 + 2
+24 + 6 + 7
+30 + 7
+37
+
+The answer is 37.
+
+(In order to warrant a grade of CORRECT, the attempted answer must be 37.)
+</solution>
+</task>

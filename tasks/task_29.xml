@@ -1,0 +1,14 @@
+<task>
+<problem>
+Produce an equation that evaluates to 12 using three 11s combined by elementary arithmetic operations: +, -, *, /. 
+</problem>
+<solution>
+
+One can solve this problem by using the following equation:
+
+11 + 11 / 11 = 12
+
+as 11 / 11 simply equals one.
+
+</solution>
+</task>

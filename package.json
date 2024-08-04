@@ -1,0 +1,21 @@
+{
+    "name": "superbench",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "chart.js": "^3.9.1",
+        "chartjs-chart-error-bars": "^3.9.2",
+        "chartjs-node-canvas": "^4.1.6",
+        "chartjs-plugin-datalabels": "^2.2.0",
+        "d3-scale-chromatic": "^3.1.0",
+        "openai": "^4.53.2",
+        "xml2js": "^0.6.2"
+    },
+    "description": ""
+}

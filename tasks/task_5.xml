@@ -1,0 +1,23 @@
+<task>
+<problem>
+I have a chair - on top of the chair there is a cup, inside the cup there is a thimble holding a diamond. I take the chair to a different room, take the cup off it, and quickly flip the cup upside down on a table. Then, I lift the cup vertically upward, and once it's completely off the table, flip it rightside up, clamp my hand over its opening, and bring it back to the original room. Where is the diamond now?
+</problem>
+
+<solution>
+
+1. Initially, the diamond is inside the thimble, which is inside the cup, on top of the chair.
+
+2. When you move the chair to a different room, nothing changes its relative location.
+
+3. When you take the cup off the chair, the thimble and diamond would remain inside the cup.
+
+4. When you flip the cup upside down on the table, the diamond and thimble would fall out of the cup and onto the table.
+
+5. When you lift the cup vertically upward, the diamond and thimble would remain on the table. Clamping your hand over the opening of the cup would not affect the diamond's location.
+
+6. When you bring the cup back to the original room, the diamond would still be on the table, not inside the cup.
+
+Therefore, the diamond is on the table, in the other room.
+
+</solution>
+</task>

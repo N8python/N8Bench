@@ -1,0 +1,15 @@
+<task>
+<problem>
+Two sisters own a cat together. The sisters go on a walk in opposite directions on a straight line, starting at the same point. The cat, torn between the two sisters, walks from the first sister to the second and back again until the walk concludes. The sisters turn around after walking for 12 miles, and then walk the same distance back to the point where they started. If each sister walks at 3mph, and the cat walks at 2mph, how far does the cat travel?
+</problem>
+
+<solution>
+
+Each sister takes 12 / 3 = 4 hours to walk 12 miles. Each sister does this twice - once on the way out and once on the way back. So, each sister walks for a total of 8 hours.
+
+The cat thus also walks for 8 hours. Since the cat walks at 2mph, the cat travels 8 * 2 = 16 miles.
+
+Therefore, the cat travels 16 miles.
+
+</solution>
+</task>

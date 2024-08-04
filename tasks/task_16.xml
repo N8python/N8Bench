@@ -1,0 +1,15 @@
+<task>
+<problem>
+Josephine and Alex decided to play chess against each other. They bet $1 on each game they played. Josephine won three bets and Alex lost $1. What's the minimum about of games they could've played?
+</problem>
+
+<solution>
+
+Josephine won three bets in three grames - meaning Alex would have lost $3 if only three games were played.
+
+However, Alex only lost $1. So she must have won at least two games, as -3 + 2 = -1.
+
+Therefore, the minimum amount of games they could have played is 5.
+
+</solution>
+</task>
