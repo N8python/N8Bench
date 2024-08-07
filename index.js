@@ -8,8 +8,8 @@ const openaiAccuracyReasoning = new OpenAI({
 });
 // For local evaluation, change to remote API if preferred
 const openaiReasoning = new OpenAI({
-    baseURL: "http://localhost:1234/v1",
-    apiKey: 'lm-studio'
+    apiKey: process.env.OPENAI_API_KEY,
+    baseURL: "https://openrouter.ai/api/v1/"
 });
 
 const NUM_ITERATIONS_PER_TASK = 1;
@@ -96,7 +96,7 @@ async function evalTask(taskNumber, models, accuracyReasoningModel) {
 
 }
 const models = [
-    "meta-llama/llama-3.1-8b-instruct"
+    "openai/gpt-4o-2024-08-06"
 ]
 const finalScores = Object.fromEntries(models.map(model => [model, []]));
 const addCorrespondingScores = (finalScores, model_results, c) => {

@@ -6,6 +6,7 @@
     "mistralai/mistral-large": 14,
     "mistralai/mixtral-8x22b-instruct": 11.700000000000001,
     "openai/gpt-4o-mini": 15.500000000000002,
+    "openai/gpt-4o-2024-08-06": 22.4,
     "openai/gpt-4o": 20.799999999999997,
     "openai/gpt-4-turbo": 20.1,
     "openai/gpt-4": 15.999999999999996,
