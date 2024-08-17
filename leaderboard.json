@@ -29,5 +29,9 @@
     "deepseek/deepseek-coder": 12.4,
     "cognitivecomputations/dolphin-llama-3-70b": 2.5999999999999996,
     "cognitivecomputations/dolphin-mixtral-8x22b": 9.999999999999998,
-    "alpindale/magnum-72b": 12
+    "alpindale/magnum-72b": 12,
+    "nousresearch/hermes-3-llama-3.1-405b": 16.8,
+    "nousresearch/hermes-3-llama-3.1-8b": 5.8,
+    "nousresearch/hermes-3-llama-3.1-70b": 12.9
+
 }

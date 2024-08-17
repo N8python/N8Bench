@@ -96,7 +96,7 @@ async function evalTask(taskNumber, models, accuracyReasoningModel) {
 
 }
 const models = [
-    "openai/gpt-4o-2024-08-06"
+    "openai/gpt-4o"
 ]
 const finalScores = Object.fromEntries(models.map(model => [model, []]));
 const addCorrespondingScores = (finalScores, model_results, c) => {
