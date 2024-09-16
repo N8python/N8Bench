@@ -32,6 +32,7 @@
     "alpindale/magnum-72b": 12,
     "nousresearch/hermes-3-llama-3.1-405b": 16.8,
     "nousresearch/hermes-3-llama-3.1-8b": 5.8,
-    "nousresearch/hermes-3-llama-3.1-70b": 12.9
+    "nousresearch/hermes-3-llama-3.1-70b": 12.9,
+    "openai/o1-preview": 28
 
 }
